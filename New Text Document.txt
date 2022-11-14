@@ -1,0 +1,6 @@
+color pallettes
+
+E8E8E8
+5588A3
+145374
+00334E
